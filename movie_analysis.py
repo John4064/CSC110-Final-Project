@@ -1,6 +1,5 @@
 #john parkhurst
 #3/28/19
-#csc 110 Final Project Movie Data
 #Display the information of the movie data
 def getData():
     #filename = movie.txt
